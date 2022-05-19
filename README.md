@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anthonymukwaya
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Web Development and Cyber Defence
-- 💞️ I’m looking to collaborate on development technologies
+- 💞️ I’m looking to collaborate on any projects around cybersec and Web Development
 - 📫 How to reach me ...
 
 <!---
